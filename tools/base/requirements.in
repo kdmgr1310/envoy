@@ -22,5 +22,5 @@ pyjwt[crypto]>=2.13.0
 cryptography>=42.0.0
 pyopenssl>=0.13.1
 pyyaml
-setuptools>=84.0.0
+setuptools>=0.7
 slack_sdk
