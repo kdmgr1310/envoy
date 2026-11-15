@@ -2809,14 +2809,14 @@
       ],
       "license_file": "LICENSE-APACHE"
     },
-    "hickory-net 0.26.1": {
+    "hickory-net 0.26.2": {
       "name": "hickory-net",
-      "version": "0.26.1",
+      "version": "0.26.2",
       "package_url": "https://github.com/hickory-dns/hickory-dns",
       "repository": {
         "Http": {
-          "url": "https://static.crates.io/crates/hickory-net/0.26.1/download",
-          "sha256": "e2295ed2f9c31e471e1428a8f88a3f0e1f4b27c15049592138d1eebe9c35b183"
+          "url": "https://static.crates.io/crates/hickory-net/0.26.2/download",
+          "sha256": "084e7bd6a377435d568f652153e571b50970d7ccc1d1eeec0519f834632287e1"
         }
       },
       "targets": [
@@ -2977,7 +2977,7 @@
           ],
           "selects": {}
         },
-        "version": "0.26.1"
+        "version": "0.26.2"
       },
       "license": "MIT OR Apache-2.0",
       "license_ids": [
@@ -3157,7 +3157,7 @@
               "target": "futures_util"
             },
             {
-              "id": "hickory-net 0.26.1",
+              "id": "hickory-net 0.26.2",
               "target": "hickory_net"
             },
             {
