@@ -9,7 +9,7 @@ repository = "https://github.com/envoyproxy/envoy"
 
 [dependencies]
 mockall = "0.13.1"
-smallvec = "1"
+smallvec = "0.6.14"
 
 [build-dependencies]
 bindgen = "0.73.2"
